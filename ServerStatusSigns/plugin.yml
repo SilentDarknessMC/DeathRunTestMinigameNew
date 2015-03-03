@@ -1,0 +1,6 @@
+name: SDMCSignPlugin
+main: com.silentdarknessmc.signs.Main
+description:  >
+              SDMC's Sign Plugin
+version: 1.0
+author: SDMC

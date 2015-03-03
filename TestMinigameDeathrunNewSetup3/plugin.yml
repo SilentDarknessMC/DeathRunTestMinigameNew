@@ -1,0 +1,6 @@
+name: SDMCDeathrunPlugin
+main: com.silentdarknessmc.deathrun.Main
+description:  >
+              SDMC's Deathrun Plugin
+version: 1.0
+author: SDMC
